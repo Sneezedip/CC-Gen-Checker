@@ -1,5 +1,4 @@
-# Spotify-Checker
-## Fastest open sourced Spotify-Checker.
+# Credit Card Checker-Generator
 
 # Version 1.0.0
     - 0.0033 sec for each card.
